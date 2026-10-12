@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RideMatching.Api/RideMatching.Api.csproj" />
+    <Project Path="src/RideMatching.Application/RideMatching.Application.csproj" />
+    <Project Path="src/RideMatching.Domain/RideMatching.Domain.csproj" />
+    <Project Path="src/RideMatching.Infrastructure/RideMatching.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RideMatching.IntegrationTests/RideMatching.IntegrationTests.csproj" />
+    <Project Path="tests/RideMatching.UnitTests/RideMatching.UnitTests.csproj" />
+  </Folder>
+</Solution>
